@@ -1,0 +1,1 @@
+"D:\software\微信web开发者工具\cli.bat" cloud functions deploy --e gadan-plan-5gvg15mmba19260b --n quickstartFunctions --r --project "C:\Users\admin\WeChatProjects\gadan" --report_first --report
